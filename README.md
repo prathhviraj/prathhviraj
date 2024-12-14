@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathhviraj&label=Profile%20views&color=0e75b6&style=flat" alt="soni_prath2840" /> </p>
 
-<p align="left"> <a href="https://x.com/soni_prath28401?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/arjunbh004039?logo=twitter&style=for-the-badge" alt="soni_prath28401" /></a> </p>
+<p align="left"> <a href="https://x.com/soni_prath28401?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/soni_prath2840?logo=twitter&style=for-the-badge" alt="soni_prath28401" /></a> </p>
 
 - 🌱 I’m currently learning **WebDevelopment**
 
