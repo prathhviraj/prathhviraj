@@ -3,7 +3,7 @@
 
 <img align="right" width="400" alt="Coding" src="https://tse1.mm.bing.net/th?id=OIP.zVnWJtyGOX_kUIDm6ccCfQHaEq&pid=Api&P=0&h=220"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-bhandari&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-bhandari" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathhviraj&label=Profile%20views&color=0e75b6&style=flat" alt="soni_prath2840" /> </p>
 
 <p align="left"> <a href="https://x.com/soni_prath28401?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/arjunbh004039?logo=twitter&style=for-the-badge" alt="soni_prath28401" /></a> </p>
 
