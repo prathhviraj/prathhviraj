@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Arjun Bhandari</h1>
+<h1 align="center">Hi 👋, I'm Prathviraj Soni</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <img align="right" width="400" alt="Coding" src="https://tse1.mm.bing.net/th?id=OIP.zVnWJtyGOX_kUIDm6ccCfQHaEq&pid=Api&P=0&h=220"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-bhandari&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-bhandari" /> </p>
 
-<p align="left"> <a href="https://twitter.com/arjunbh004039" target="blank"><img src="https://img.shields.io/twitter/follow/arjunbh004039?logo=twitter&style=for-the-badge" alt="arjunbh004039" /></a> </p>
+<p align="left"> <a href="https://x.com/soni_prath28401?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/arjunbh004039?logo=twitter&style=for-the-badge" alt="soni_prath28401" /></a> </p>
 
 - 🌱 I’m currently learning **WebDevelopment**
 
@@ -14,7 +14,7 @@
 - 📫 How to reach me **arjun12345bhandari@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://twitter.com/ArjunBh004039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arjunbh004039" height="30" width="40" /></a><a href="https://linkedin.com/in/arjun-bhandari-5a2487304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun bhandari" height="30" width="40" /></a>
+<p align="left"><a href="https://x.com/soni_prath28401?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soni_prath28401" height="30" width="40" /></a><a href="https://www.linkedin.com/in/prathviraj-soni-30a61628b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prathviraj Soni" height="30" width="40" /></a>
 </p>
 <h3>Frontend</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
@@ -29,16 +29,3 @@
 <h3>Languages</h3>
 <p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-bhandari&show_icons=true&locale=en&layout=compact&theme=radical"  alt="Most Used Languages">
-</td>
-<td>
-  <img width="300em" src="https://github-readme-stats.vercel.app/api?username=arjun-bhandari&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-bhandari&theme=radical" alt="Streak Stats"/>
-</td>
-</tr>
-</table>
