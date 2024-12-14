@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Nodejs, ExpressJs, MongoDb, MyPhpAdmin, SQL**
 
-- 📫 How to reach me **arjun12345bhandari@gmail.com**
+- 📫 How to reach me **soniprathviraj07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://x.com/soni_prath28401?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soni_prath28401" height="30" width="40" /></a><a href="https://www.linkedin.com/in/prathviraj-soni-30a61628b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prathviraj Soni" height="30" width="40" /></a>
